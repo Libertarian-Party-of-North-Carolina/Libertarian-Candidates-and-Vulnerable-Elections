@@ -6,10 +6,10 @@ This repo contains two things. First, a script that will set up the environment 
 After running all 3 steps below, your file structure will look like this.
 ```
 ├── candidate_data
-│   └── Candidate_Listing_2022.csv
+│   └── Candidate_Listing_2023.csv
 ├── outputs
-│   ├── all_libertarian_party_candidates_Candidate_Listing_2022.csv
-│   └── vulnerable_races_Candidate_Listing_2022.csv
+│   ├── all_libertarian_party_candidates_Candidate_Listing_2023.csv
+│   └── vulnerable_races_Candidate_Listing_2023.csv
 ├── process.py
 ├── README.md
 ├── registration_data
@@ -37,7 +37,7 @@ python3 process.py
 ```
 Step 4: The output of the script will be in the ouputs folder.
 ```
-outputs/all_libertarian_party_candidates_Candidate_Listing_2022.csv
-outputs/vulnerable_races_Candidate_Listing_2022.csv
+outputs/all_libertarian_party_candidates_Candidate_Listing_2023.csv
+outputs/vulnerable_races_Candidate_Listing_2023.csv
 ```
 
