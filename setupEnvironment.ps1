@@ -16,7 +16,7 @@ Write-Host "Created folders."
 
 Write-Host "Downloading Candidate Files."
 
-Invoke-WebRequest -Uri "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2022/Candidate%20Filing/Candidate_Listing_2022.csv" -OutFile "./candidate_data/Candidate_Listing_2022.csv"
+Invoke-WebRequest -Uri "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2023/Candidate%20Filing/Candidate_Listing_2023.csv" -OutFile "./candidate_data/Candidate_Listing_2023.csv"
 
 Write-Host "Downloaded Candidate Files."
 
