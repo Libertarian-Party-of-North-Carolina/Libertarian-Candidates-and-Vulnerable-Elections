@@ -18,7 +18,7 @@ echo "Created folders."
 
 echo "Downloading Candidate Files."
 
-wget -q -P ./candidate_data/ "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2023/Candidate%20Filing/Candidate_Listing_2023.csv"
+wget -q -P ./candidate_data/ "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2024/Candidate%20Filing/Candidate_Listing_2024.csv"
 
 echo "Downloaded Candidate Files."
 
