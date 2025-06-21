@@ -15,13 +15,11 @@ echo "Created folders."
 #
 #echo "Created virtual environment."
 
-
 echo "Downloading Candidate Files."
 
-wget -q -P ./candidate_data/ "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2024/Candidate%20Filing/Candidate_Listing_2024.csv"
+wget -q -P ./candidate_data/ "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2025/Candidate%20Filing/Candidate_Listing_2025.csv"
 
 echo "Downloaded Candidate Files."
-
 
 echo "Downloading Voter Registration Files."
 
