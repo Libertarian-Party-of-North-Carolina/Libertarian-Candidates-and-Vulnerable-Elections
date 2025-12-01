@@ -7,8 +7,8 @@ def compare_candidates_to_members_and_analyze_races():
     candidate_filing_csv_folder = "candidate_data/"
 
     # Candidate filing CSV
-    candidate_filing_csv_list = ["Candidate_Listing_2025.csv"]
-    # candidate_filing_csv_list = ["Candidate_listing_2010.csv", "Candidate_listing_2011.csv", "Candidate_listing_2012.csv", "Candidate_listing_2013.csv", "Candidate_Listing_2014_rev1.csv", "Candidate_listing_2015.csv", "Candidate_Listing_2016.csv", "Candidate_Listing_2017.csv", "Candidate_Listing_2018.csv", "Candidate_Listing_2019.csv", "Candidate_Listing_2020.csv", "Candidate_Listing_2021.csv", "Candidate_Listing_2022.csv","Candidate_Listing_2023.csv", "Candidate_Listing_2024.csv", "Candidate_Listing_2025.csv"]
+    candidate_filing_csv_list = ["Candidate_Listing_2026.csv"]
+    # candidate_filing_csv_list = ["Candidate_listing_2010.csv", "Candidate_listing_2011.csv", "Candidate_listing_2012.csv", "Candidate_listing_2013.csv", "Candidate_Listing_2014_rev1.csv", "Candidate_listing_2015.csv", "Candidate_Listing_2016.csv", "Candidate_Listing_2017.csv", "Candidate_Listing_2018.csv", "Candidate_Listing_2019.csv", "Candidate_Listing_2020.csv", "Candidate_Listing_2021.csv", "Candidate_Listing_2022.csv","Candidate_Listing_2023.csv", "Candidate_Listing_2024.csv", "Candidate_Listing_2025.csv", "Candidate_Listing_2026.csv"]
 
     # Libertarian Party Members CSV
     # registration_csv = "ncLibertarians3.csv"
